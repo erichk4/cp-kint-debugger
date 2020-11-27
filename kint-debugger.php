@@ -8,7 +8,7 @@
      * Requires: 2.5 or higher
      * License: Dual license GPL-2.0+ & MIT (Kint is licensed MIT)
      *
-     * Copyright 2012-2019 (EM), Brian Fegter (brian@fegter.com), Chris Wallace (chris@liftux.com), Chris Dillon (chris@strongwp.com)
+     * Copyright 2012-2020 (EM), Brian Fegter (brian@fegter.com), Chris Wallace (chris@liftux.com), Chris Dillon (chris@strongwp.com)
      *
      * This program is free software; you can redistribute it and/or modify
      * it under the terms of the GNU General Public License as published by
