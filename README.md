@@ -103,14 +103,8 @@ To restrict visibility, use the `kint_debug_display` filter. For example, to pre
 
 == Installation ==
 
-1. Go to Plugins > Add New.
-1. Search for "kint debugger".
-1. Click "Install Now".
-
-OR
-
 1. Download the zip file.
-1. Upload the zip file via Plugins > Add New > Upload.
+2. Upload the zip file via Plugins > Add New > Upload.
 
 Activate the plugin and start debugging!
 
