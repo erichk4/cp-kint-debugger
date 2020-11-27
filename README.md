@@ -1,13 +1,13 @@
 === Kint Debugger ===
 
-Contributors: em, misternifty, chriswallace, cdillon27
-Tags: debug, debugger, kint, print_r, var_dump, backtrace, debug_backtrace, trace, developer, debug bar, adopt-me
-Requires at least: 2.5
-Tested up to: ClassiPress 1.2
-Stable tag: 1.3
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
+Contributors: em, misternifty, chriswallace, cdillon27  
+Tags: debug, debugger, kint, print_r, var_dump, backtrace, debug_backtrace, trace, developer, debug bar, adopt-me  
+Requires at least: 2.5  
+Tested up to: ClassiPress 1.2  
+Stable tag: 1.3  
+License: GPLv2 or later  
+License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+  
 Dump variables and traces in an organized and interactive display. Integrates seamlessly with Debug Bar.
 
 ![screenshot](https://github.com/erichk4/cp-kint-debugger/blob/master/screenshot.png)
