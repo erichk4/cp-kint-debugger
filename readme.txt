@@ -138,6 +138,7 @@ Fortunately, the developers of Kint are working on version 2 which will make it 
 
 = 1.3 =
 * Upgrade Kint library
++ Add debug info bar
 
 = 1.2 =
 * Fix bug when adding Debug Bar panel.
