@@ -1,0 +1,12 @@
+.kint-debugger,
+.ab-top-menu>.kint-debugger:hover>.ab-item:hover {
+    background-color: coral !important;
+}
+
+.kint-rich.kint-folder.kint-show:before {
+    content: 'DEBUG INFO';
+    padding: 8px;
+    display: block;
+    background-color: #FF7F50;
+    color: white;
+}
