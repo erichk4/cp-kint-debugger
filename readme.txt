@@ -17,7 +17,7 @@ Dump variables and traces in an organized and interactive display. Integrates se
 
 *No more adding PRE tags before print_r or var_dump!*
 
-Kint Debugger works well with the [Debug Bar](https://wordpress.org/plugins/debug-bar/) plugin by creating its own panel to display your debug results.
+Kint Debugger works well with the [Debug Bar](https://wordpress.org/plugins/debug-bar/) plugin, but does not require it, by creating its own panel to display your debug results.
 
 = Basic Usage =
 
