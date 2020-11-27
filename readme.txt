@@ -2,7 +2,7 @@
 Contributors: em, misternifty, chriswallace, cdillon27
 Tags: debug, debugger, kint, print_r, var_dump, backtrace, debug_backtrace, trace, developer, debug bar, adopt-me
 Requires at least: 2.5
-Tested up to: 5.0
+Tested up to: 1.2
 Stable tag: 1.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -17,7 +17,7 @@ Dump variables and traces in an organized and interactive display. Integrates se
 
 *No more adding PRE tags before print_r or var_dump!*
 
-Kint Debugger works well with the [Debug Bar](https://wordpress.org/plugins/debug-bar/) plugin by creating its own panel to display your debug results.
+Kint Debugger works well with the [Debug Bar](https://wordpress.org/plugins/debug-bar/) plugin, but does not require it, by creating its own panel to display your debug results.
 
 = Basic Usage =
 
