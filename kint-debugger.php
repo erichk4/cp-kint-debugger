@@ -203,7 +203,7 @@
         wp_enqueue_style( 'custom_wp_admin_css' );
     }
 
-    add_action( 'admin_enqueue_scripts', 'kint_load_custom_wp_admin_style' );
+    add_action( 'wp_enqueue_scripts', 'kint_load_custom_wp_admin_style' );
 
 
 
