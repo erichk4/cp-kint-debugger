@@ -9,6 +9,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Dump variables and traces in an organized and interactive display. Integrates seamlessly with Debug Bar.
 
+![screenshot](https://github.com/erichk4/cp-kint-debugger/blob/master/screenshot.png)
+
 == Description ==
 
 > This plugin is up for adoption.
