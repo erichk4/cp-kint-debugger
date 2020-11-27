@@ -2,7 +2,7 @@
 
 Contributors: em, misternifty, chriswallace, cdillon27  
 Tags: debug, debugger, kint, print_r, var_dump, backtrace, debug_backtrace, trace, developer, debug bar, adopt-me  
-Requires at least: 2.5  
+Requires at least: 1.0  
 Tested up to: ClassicPress 1.2  
 Stable tag: 1.3  
 License: GPLv2 or later  
