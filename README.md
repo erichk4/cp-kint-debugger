@@ -14,8 +14,6 @@ Dump variables and traces in an organized and interactive display. Integrates se
 
 == Description ==
 
-> This plugin is up for adoption.
-
 **Kint Debugger** is a simple wrapper for [Kint](https://github.com/raveren/kint), a debugging tool to output information about variables and traces in a styled, collapsible format that makes understanding deep arrays and objects easier.
 
 *No more adding PRE tags before print_r or var_dump!*
