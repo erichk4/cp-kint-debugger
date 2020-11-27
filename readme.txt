@@ -11,7 +11,7 @@ Dump variables and traces in an organized and interactive display. Integrates se
 
 == Screenshot ==
 
-![alt screenshot](https://github.com/erichk4/cp-kint-debugger/blob/master/screenshot.png)
+![screenshot](https://github.com/erichk4/cp-kint-debugger/blob/master/screenshot.png)
 
 == Description ==
 
