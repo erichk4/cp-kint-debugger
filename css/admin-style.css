@@ -1,5 +1,5 @@
 .kint-debugger,
-.ab-top-menu>.kint-debugger:hover>.ab-item:hover {
+.ab-top-menu > .kint-debugger:hover > .ab-item:hover {
     background-color: coral !important;
 }
 
@@ -9,4 +9,10 @@
     display: block;
     background-color: #FF7F50;
     color: white;
+}
+
+.kint-rich footer {
+    padding: 12px;
+    font-size: 12px;
+    background: transparent;
 }

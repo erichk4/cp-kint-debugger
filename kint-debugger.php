@@ -2,13 +2,13 @@
     /**
      * Plugin Name: Kint Debugger
      * Description: Dump variables and traces in an organized and interactive display. Works with Debug Bar.
-     * Version: 1.3
+     * Version: 1.4
      * Author: Erich Munz (EM)
      * Original Authors: Brian Fegter, Chris Dillon
      * Requires: 2.5 or higher
      * License: Dual license GPL-2.0+ & MIT (Kint is licensed MIT)
      *
-     * Copyright 2012-2020 (EM), Brian Fegter (brian@fegter.com), Chris Wallace (chris@liftux.com), Chris Dillon (chris@strongwp.com)
+     * Copyright 2012-2022 (EM), Brian Fegter (brian@fegter.com), Chris Wallace (chris@liftux.com), Chris Dillon (chris@strongwp.com)
      *
      * This program is free software; you can redistribute it and/or modify
      * it under the terms of the GNU General Public License as published by
@@ -40,7 +40,8 @@
         Kint\Renderer\RichRenderer::$folder = true;
     }
 
-    add_action( 'plugins_loaded', 'kint_debug_load_kint', 10 );
+    kint_debug_load_kint();
+    //add_action( 'plugins_loaded', 'kint_debug_load_kint', 1 );
 
     /**
      * Generic data dump.
