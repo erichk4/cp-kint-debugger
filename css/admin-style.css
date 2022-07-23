@@ -12,7 +12,7 @@
 }
 
 .kint-rich footer {
-    padding: 12px;
-    font-size: 12px;
-    background: transparent;
+    padding: 12px !important;
+    font-size: 12px !important;
+    background: transparent !important;
 }

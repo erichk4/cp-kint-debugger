@@ -38,10 +38,13 @@
 
         Kint\Renderer\RichRenderer::$theme = 'original.css';
         Kint\Renderer\RichRenderer::$folder = true;
+
+
     }
 
     kint_debug_load_kint();
     //add_action( 'plugins_loaded', 'kint_debug_load_kint', 1 );
+
 
     /**
      * Generic data dump.
@@ -185,9 +188,9 @@
     function custom_toolbar_link( $wp_admin_bar )
     {
         $args = array(
-            'id'    => 'kint-debugger',
+            'id' => 'kint-debugger',
             'title' => 'Kint Debugger active',
-            'meta'  => array(
+            'meta' => array(
                 'class' => 'kint-debugger',
                 'title' => 'Kint Debugger active'
             )
